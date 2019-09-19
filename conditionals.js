@@ -28,5 +28,5 @@ console.log("Short sleeves won't cut it!");
 console.log("Short sleeves are fine");
 }
 
-console.log("Now you're ready to go outsie");
+console.log("Now you're ready to go outside");
 
