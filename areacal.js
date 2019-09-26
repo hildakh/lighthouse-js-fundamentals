@@ -24,8 +24,8 @@ let calculateCircleArea = function(radius) {
 
 /* The catch was that the task didnt 
 require the string undefined but the word undefined
-as a predefined concept in JS */
-
+as a predefined concept in JS *
+/
 console.log(calculateRectangleArea(10, 5));     // should print 50
 console.log(calculateRectangleArea(1.5, 2.5));  // should print 3.75
 console.log(calculateRectangleArea(10, -5));    // should print undefined
